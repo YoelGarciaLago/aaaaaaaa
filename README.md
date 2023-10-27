@@ -32,4 +32,8 @@ git push
 git remote set-url origin
 
 java -jar Nombrearchivo.jar
+
+git clone
 ```
+
+PD. Para excluir archivos al gitignore solo necesitas tener el proyecto en el repositorio y ahí ya te da la opción (al darle clic derecho) de meterlo en gitignore
