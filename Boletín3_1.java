@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package boletín3_1;
-
+//aaaaaaaaaaaaaaaaaaaaaaaaa
 import java.util.Scanner;
 
 /**
