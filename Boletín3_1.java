@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author dam1
+ * @author dam1fjhm
  */
 public class Boletín3_1 {
 
